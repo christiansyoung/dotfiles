@@ -6,7 +6,7 @@ export VIRTUALENVWRAPPER_PYTHON=`which python`
 export VIRTUALENVWRAPPER_VIRTUALENV=`which virtualenv`
 source `which virtualenvwrapper.sh`
 
-export HOMEBREW_GITHUB_API_TOKEN="e4ca944d3d99d804b597bf317afc3f2ea547322b"
+export HOMEBREW_GITHUB_API_TOKEN="api-token-here"
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
